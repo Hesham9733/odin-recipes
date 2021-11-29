@@ -1,0 +1,35 @@
+.main_title{
+    padding: 15px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.center_image{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.title{
+    background-color: antiquewhite;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+.content{
+    font-family: fantasy;
+    font-weight: bold;
+    font-style: italic;
+}
+li{
+    padding: 5px;
+}
+ul{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 700;
+}
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
